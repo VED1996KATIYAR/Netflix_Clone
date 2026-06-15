@@ -1,0 +1,48 @@
+.one{
+    height: 10%;
+    width: 100%;
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+.one1{
+    height: 100%;
+    width: 150px;
+    background-color: #000000;
+    display: flex;
+    color: white;
+}
+.one2{
+    height: 100%;
+    width: 500px;
+    background-color: #000000;
+    color: white;
+    display: flex;
+    font-size: 15px;
+    column-gap: 50px;
+    align-items: center;
+}
+.one3{
+    height: 100%;
+    width: 230px;
+    background-color: #000000;
+    
+}
+.one4{
+    height: 100%;
+    width: 150px;
+    background-color: #000000;
+   
+    align-items: center;
+    
+}
+.one5{
+    margin-top: 10px;
+    width: 100px;
+    height: 75%;
+    background-color: red;
+    border: 1px black solid;
+    font-size: 20px;
+}
+/* #000000 */
