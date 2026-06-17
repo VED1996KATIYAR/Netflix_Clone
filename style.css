@@ -46,3 +46,29 @@
     font-size: 20px;
 }
 /* #000000 */
+.two{
+    width: 1200;
+    height: 800px;
+    background: url(images/BACKGROUND_IMAGE.jpg);
+    background-size:auto;
+    background-repeat: no-repeat;
+    display: flex;
+}
+.two1{
+    width: 200px;
+    height: 800px;
+    /* background-color: antiquewhite; */
+}
+.two3{
+    width: 200px;
+    height: 800px;
+    /* background-color: aquamarine; */
+}
+.two2{
+    width: 800px;
+    height: 800px;
+    color: whitesmoke;
+    /*background-color: tomato;*/
+   /* align-items: center;*/
+    text-align: center;
+}
