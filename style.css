@@ -72,3 +72,70 @@
    /* align-items: center;*/
     text-align: center;
 }
+.three{
+    display: flex;
+    column-gap: 20px;
+    border: 1px solid black;
+    background-color: blue;
+    width: 1200px;
+    height: 200px ;
+    font-size: 90px;
+    border-radius: 15%;
+
+   
+}
+.three1{
+ height: 200px;
+ width: 236px;
+ background-color: whitesmoke;
+ background-image: url("trending cover/teach you a lesson.jpg");
+ background-size: cover; 
+}
+.three2{
+     height: 200px;
+ width: 236px;
+ background-color: whitesmoke;
+ background-image: url("trending cover/maa behen.jpg");
+ background-size: cover;
+}
+.three3{
+     height: 200px;
+ width: 236px;
+ background-color: whitesmoke;
+ background-image: url("trending cover/bhoot bangla.jpg");
+ background-size: cover;
+}
+.three4{
+     height: 200px;
+ width: 236px;
+ background-color: whitesmoke;
+ background-image: url("trending cover/dhurandar2.webp");
+ background-size: cover;
+}
+.three5{
+     height: 200px;
+ width: 236px;
+ background-color: whitesmoke;
+ background-image: url("trending cover/House_of_the_Dragon_season_3.jpg");
+ background-size: cover;
+}
+.three1:hover{
+    
+}
+.three2:hover{
+    
+}
+.three3:hover{
+    
+}
+.three4:hover{
+    
+}
+.three5:hover{
+    
+}
+/*
+80
+1180/5
+236
+*/
